@@ -1,0 +1,25 @@
+section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.card{
+    padding-top: 100;
+    padding-bottom: 100;
+}
+.parent {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(12, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    }
+    
+    .div1 { grid-area: 1 / 1 / 12 / 2; }
+    .div2 { grid-area: 12 / 1 / 13 / 6; }
+    .div3 { grid-area: 1 / 2 / 12 / 6; }
+
+    /* .card-img-top {
+        height: 300px;
+    } */

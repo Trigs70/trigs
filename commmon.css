@@ -1,0 +1,9 @@
+.container {
+    display:flexbox;
+    text-justify: initial;
+    width: 100%;
+}
+.row align-items-center{
+    justify-content: left;
+    display: inline-block;
+}

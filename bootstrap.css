@@ -1,0 +1,7 @@
+.card {
+    background-color: whitesmoke;
+    cursor: pointer;
+}
+.card:hover {
+    background-color: lightblue;
+}

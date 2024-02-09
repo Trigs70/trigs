@@ -1,0 +1,22 @@
+.nav li {
+    display: inline-block;
+  }
+  
+  .nav a {
+    color: rgb(15, 12, 12);
+    background-color: white;
+    padding: 10px;
+    border-radius: 2px;
+    text-decoration: none;
+  }
+  .nav a:hover {
+    color: #b01313;
+    background-color: rgb(201, 203, 219);
+  }
+
+  .nav {
+    margin-top: 10px;
+    list-style: none;
+    text-align: center;
+    justify-content: center;
+  }
