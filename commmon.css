@@ -7,5 +7,12 @@
 .row align-items-center{
     justify-content: left;
     display: inline-block;
+    text-align: left;
+    /* font-family: Arial ; */
 }
+  
 
+.row {
+    height: auto;
+    text-align-last: left;
+  }

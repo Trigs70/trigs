@@ -1,5 +1,9 @@
  body {
   background-color: rgb(209, 232, 245);
+  font-family: Arial;
+  h1 {
+    height: 18px;
+  }
  }
 
 /* h1 {
